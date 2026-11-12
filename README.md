@@ -52,8 +52,12 @@ I am an **Agentic Quality Engineer and Senior SDET** with 7+ years of experience
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-raj-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-raj-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniel-raj-s&show_icons=true&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-raj-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=daniel-raj-s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
