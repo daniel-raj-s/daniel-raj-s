@@ -30,7 +30,7 @@ I am an **Agentic Quality Engineer and Senior SDET** with 7+ years of experience
 |---|---|
 | **E2E & Test Automation** | Playwright (TS/JS/Python), Selenium WebDriver, Appium, Cypress, TestNG, JUnit |
 | **BDD & API Testing** | Cucumber (Gherkin), RestAssured, Supertest, Postman, Charles Proxy, WireMock |
-| **AI & Agentic Systems** | Claude Opus 5.5, AWS Bedrock, OpenAI GPT-6, Cursor / Claude Code CLI, Trace Analysis |
+| **AI & Agentic Systems** | Claude Opus 5.5, AWS Bedrock, OpenAI GPT-6, DeepEval, Promptfoo, AI Quality Gates, Trace Analysis |
 | **Languages & Runtimes** | TypeScript, JavaScript (ES6+), Java (8/11/17), Python, SQL |
 | **CI/CD & Cloud** | GitHub Actions, Jenkins, Docker, AWS (S3, EC2, Bedrock), Allure Reports |
 
@@ -41,6 +41,7 @@ I am an **Agentic Quality Engineer and Senior SDET** with 7+ years of experience
 | Repository | Tech Stack | Key Architectural Highlights |
 |---|---|---|
 | [**playwright-trace-analysis-pipeline**](https://github.com/daniel-raj-s/playwright-trace-analysis-pipeline) | Playwright Trace API, Claude Opus 5.5 / GPT-6, AWS Bedrock, GHA | Autonomous AI triage pipeline extracting DOM timeline traces, zero-token deduplication, and auto-generated fix PRs. |
+| [**agentic-eval**](https://github.com/daniel-raj-s/agentic-eval) | DeepEval, Promptfoo, Python 3.13, Node 24, GitHub Actions | End-to-end evaluation harness and blocking CI/CD merge gate for tool-calling agents with semantic metrics and OWASP red-teaming. |
 | [**playwright-enterprise-architecture-blueprint**](https://github.com/daniel-raj-s/playwright-enterprise-architecture-blueprint) | TypeScript, Playwright, Multi-stage Docker, Allure | Production-grade zero-flake E2E architecture cutting runtime by 80% with 15-minute cron synthetic health monitoring. |
 | [**visual-regression**](https://github.com/daniel-raj-s/visual-regression) | Playwright, Pixelmatch, Dynamic Element Masking | Cross-browser & multi-viewport layout validation with dynamic element masking and animation freezing for zero false positives. |
 | [**network-interception**](https://github.com/daniel-raj-s/network-interception) | Playwright Route API, Fault Injection, JSON Schema | Network routing, backend API stubbing, and client error injection boosting test speed to sub-second execution. |
